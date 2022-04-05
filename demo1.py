@@ -41,7 +41,9 @@ def loopchek()
     for i in d :
             print("%s %d" %(i, d[i]))
 
-        
+def check():
+    print("hi")
+	       
     
 #res=add()
 #print(res)
@@ -57,6 +59,7 @@ def main():
 	print(res)
 	
 	whilecheck(0)
+	check()
 
 	loopchek()
 	
